@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "weather-cli",
+    "weather-common",
+    "weather-rest",
+    "weather-socket",
+
+]
+

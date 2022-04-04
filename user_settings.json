@@ -1,0 +1,14 @@
+{
+  "date": null,
+  "location": {
+    "city": "Zakopane",
+    "country": "PL",
+    "lat": 49.296944,
+    "lon": 19.950659
+  },
+  "provider": "Weather API",
+  "api_keys": {
+    "Open Weather": "c7ea90e9dcdb122504d5aa6bb443f4ab",
+    "Weather API": "05b1ae31aad34464891130814220204"
+  }
+}
